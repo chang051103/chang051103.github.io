@@ -1,0 +1,48 @@
+/* Select the HTML element you want to style */
+body {
+    /* Set the font family to a serif font */
+    font-family: "Times New Roman", Times, serif;
+  }
+ul {
+   
+    color: #89CFF0; /* baby blue color */
+  }
+.movie-list {
+    list-style: circle;
+    padding: 0;
+  }
+  
+.movie-list li {
+    margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f2f2f2;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #333;
+    margin: 0 10px;
+    font-size: 18px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+  }
+  
+  .navbar a:hover {
+    color: #007bff;
+  }
+  
+  
+  
+
+
+
+
+  
+  
